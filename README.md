@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/selimemretoy" target="blank"><img src="https://img.shields.io/twitter/follow/selimemretoy?logo=twitter&style=for-the-badge" alt="selimemretoy" /></a> </p>
 
-- 👯 I’m looking to collaborate on [Ant Media Server](https://github.com/ant-media/Ant-Media-Server)
+- 👯 I’m working with [TICE Software](https://github.com/TICESoftware)
 
 - 📝 I regularly write articles on [https://medium.com/@SelimEmreToy](https://medium.com/@SelimEmreToy)
 
-- 💬 Ask me about **WebRTC, RTMP, HLS, FFmpeg, Wordpress etc.**
+- 💬 Ask me about **Java, Angular, AWS, Linux, WebRTC, RTMP, HLS, FFmpeg, Wordpress etc.**
 
 - 📫 How to reach me **selimemretoy@gmail.com**
 
