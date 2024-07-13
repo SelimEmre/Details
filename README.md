@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selim</h1>
-<h3 align="center">A passionate full-stack developer from Turkey</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimemre&label=Profile%20views&color=0e75b6&style=flat" alt="selimemre" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/selimemretoy" target="blank"><img src="https://img.shields.io/twitter/follow/selimemretoy?logo=twitter&style=for-the-badge" alt="selimemretoy" /></a> </p>
 
-- 👯 I’m working with [TICE Software](https://github.com/TICESoftware)
+- 👯 I’m working as a Freelance
 
 - 📝 I regularly write articles on [https://medium.com/@SelimEmreToy](https://medium.com/@SelimEmreToy)
 
